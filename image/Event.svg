@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="23" viewBox="0 0 44 23">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #46c2ff;
+        font-size: 16px;
+        font-family: Poppins-Medium, Poppins;
+        font-weight: 500;
+      }
+    </style>
+  </defs>
+  <text id="Event" class="cls-1" transform="translate(0 17)"><tspan x="0" y="0">Event</tspan></text>
+</svg>
